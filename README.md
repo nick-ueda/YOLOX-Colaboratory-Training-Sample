@@ -1,4 +1,4 @@
-[Japanese/[English](https://github.com/Kazuhito00/YOLOX-Colaboratory-Training-Sample/blob/main/README_EN.md)] 
+[Japanese/[English](https://github.com/nick-ueda/YOLOX-Colaboratory-Training-Sample/blob/main/README_EN.md)] 
 
 # YOLOX-Colaboratory-Training-Sample
 <img src="https://user-images.githubusercontent.com/37477845/135489488-c55996d8-d32f-4612-8c99-8cdc37f7e7b2.gif" width="60%"><br>
